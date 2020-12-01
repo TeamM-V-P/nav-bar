@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../target"
+		},
+		{
+			"path": "../../fec-proxy-server-template"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Question-and-Answers"
+		}
+	],
+	"settings": {}
+}
